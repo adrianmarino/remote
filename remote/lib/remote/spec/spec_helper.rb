@@ -1,0 +1,6 @@
+require 'factory_girl'
+require 'faker'
+require 'factory_girl'
+require '../object_repository'
+require '../require_util'
+RequireUtil.require_all_files_on '../*'

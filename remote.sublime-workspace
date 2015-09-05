@@ -1,0 +1,211 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bu",
+				"bussinesUnitName"
+			],
+			[
+				"ser",
+				"service"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Adrian/development/SaNS/0.6.3-EDS-release-candidate/sans-pom/pom.xml",
+		"/C/Adrian/development/SaNS/0.6.3-EDS-release-candidate/sans-web/pom.xml",
+		"/C/Adrian/development/SaNS/0.6.3-EDS-release-candidate/sans-core/target/classes/sans.properties",
+		"/C/Adrian/development/SaNS/0.6.3-EDS-release-candidate/sans-web/target/sans-web-0.6.3/WEB-INF/jsp/userList.jsp",
+		"/C/Adrian/development/SaNS/0.6.3-EDS-release-candidate/sans-core/src/main/java/com/citi/sans/domain/user/User.java",
+		"/C/Adrian/development/remote/script_lib.sh",
+		"/C/Adrian/development/remote/stopServices",
+		"/C/Adrian/development/remote/startServices",
+		"/C/Adrian/development/remote/remote/script_lib",
+		"/C/Adrian/development/remote/showRemoteProcess",
+		"/C/Adrian/development/remote/user_service_runner.rb",
+		"/C/Adrian/development/remote/client.rb",
+		"/C/Adrian/development/remote/startRemoteServices",
+		"/C/Adrian/development/remote/startRemoteServices.sh",
+		"/C/Adrian/development/remote/tuple_space_server.rb",
+		"/C/Adrian/development/remote/user_builder.rb",
+		"/C/Adrian/development/remote/drb.sublime-workspace",
+		"/C/Adrian/development/remote/user.rb",
+		"/C/opt/eds/input/SES4702013121202.DAT",
+		"/C/Adrian/development/SES0002012102501.DAT"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"database.url",
+			"sql-maven-plugin",
+			"lath16-prod"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pom.xml",
+				"sans-pom/pom.xml"
+			],
+			[
+				"user.java",
+				"sans-core/src/main/java/com/citi/sans/domain/user/User.java"
+			],
+			[
+				"user",
+				"sans-web/target/sans-web-0.6.3/WEB-INF/jsp/userList.jsp"
+			],
+			[
+				"sans.pro",
+				"sans-core/target/classes/sans.properties"
+			],
+			[
+				"pom.",
+				"sans-pom/pom.xml"
+			],
+			[
+				"script",
+				"remote/script_lib"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true
+}
